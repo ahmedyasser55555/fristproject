@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fristproject/static/css/main.c2cab247.css",
+    "main.js": "/fristproject/static/js/main.f2350c76.js",
+    "static/media/تناسق-الألوان-في-الملابس-الرجالي-7.jpg": "/fristproject/static/media/تناسق-الألوان-في-الملابس-الرجالي-7.c93bdf928f0520159c27.jpg",
+    "static/media/تنسيق-ألوان١.jpeg": "/fristproject/static/media/تنسيق-ألوان١.7389f1b4ee9ccd3a6d74.jpeg",
+    "static/media/تنسيق-ملابس-الرجال2.jpg": "/fristproject/static/media/تنسيق-ملابس-الرجال2.6dedeaf916ce7728b56e.jpg",
+    "index.html": "/fristproject/index.html",
+    "main.c2cab247.css.map": "/fristproject/static/css/main.c2cab247.css.map",
+    "main.f2350c76.js.map": "/fristproject/static/js/main.f2350c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f2350c76.js"
+  ]
+}
