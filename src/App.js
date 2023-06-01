@@ -14,6 +14,7 @@ import Buy from "./Componant/Buy";
 
 function App() {
 
+
   const[product,setproduct] = useState([])
   const[jewelery,setjewelery] = useState([])
   const[mens,setmens] = useState([])
@@ -21,6 +22,7 @@ function App() {
   const[electric,setelectric]=useState ([])
   
 
+  
   const getproduct= async ()=>{
     const response= await axios.get(`https://fakestoreapi.com/products`)
     setproduct(response.data)
